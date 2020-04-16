@@ -1,0 +1,25 @@
+/*table, td, th {
+  padding: 5px;
+  font-family: Lato;
+  border: 3px solid #ccefff;
+  border-collapse: collapse;
+  align: center;
+  vertical-align: middle;
+}
+td {
+  font-size: 70px;
+}*/
+img {
+  width: 400px;
+  height: 576px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text{
+  font-family: Lato;
+  font-size: 30px;
+  text-align: center;
+
+}

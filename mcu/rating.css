@@ -1,0 +1,140 @@
+hr{
+  margin-left: auto;
+  margin-right: auto;
+}
+.none{
+  border: 0px;
+}
+
+.one{
+  border: 1px solid black;
+  width: 10%;
+  height: 20px;
+  background-color: #ff0000;
+}
+
+.one-half{
+  border: 1px solid black;
+  width: 15%;
+  height: 20px;
+  background-color: #f20a00;
+}
+
+.two{
+  border: 1px solid black;
+  width: 20%;
+  height: 20px;
+  background-color: #e61400;
+}
+
+.two-half{
+  border: 1px solid black;
+  width: 25%;
+  height: 20px;
+  background-color: #d91f00;
+}
+
+.three{
+  border: 1px solid black;
+  width: 30%;
+  height: 20px;
+  background-color: #cc2900;
+}
+
+.three-half{
+  border: 1px solid black;
+  width: 35%;
+  height: 20px;
+  background-color: #bf3300;
+}
+
+.four{
+  border: 1px solid black;
+  width: 40%;
+  height: 20px;
+  background-color: #b23d00;
+}
+
+.four-half{
+  border: 1px solid black;
+  width: 45%;
+  height: 20px;
+  background-color: #a64700;
+}
+
+.five{
+  border: 1px solid black;
+  width: 50%;
+  height: 20px;
+  background-color: #8c5c00;
+}
+
+.five-half{
+  border: 1px solid black;
+  width: 55%;
+  height: 20px;
+  background-color: #806600;
+}
+
+.six{
+  border: 1px solid black;
+  width: 60%;
+  height: 20px;
+  background-color: #737000;
+}
+
+.six-half{
+  border: 1px solid black;
+  width: 65%;
+  height: 20px;
+  background-color: #667a00;
+}
+
+.seven{
+  border: 1px solid black;
+  width: 70%;
+  height: 20px;
+  background-color: #598500;
+}
+
+.seven-half{
+  border: 1px solid black;
+  width: 75%;
+  height: 20px;
+  background-color: #4d8f00;
+}
+
+.eight{
+  border: 1px solid black;
+  width: 80%;
+  height: 20px;
+  background-color: #33a300;
+}
+
+.eight-half{
+  border: 1px solid black;
+  width: 85%;
+  height: 20px;
+  background-color: #26ad00;
+}
+
+.nine{
+  border: 1px solid black;
+  width: 90%;
+  height: 20px;
+  background-color: #19b800;
+}
+
+.nine-half{
+  border: 1px solid black;
+  width: 95%;
+  height: 20px;
+  background-color: #0dc200;
+}
+
+.ten{
+  border: 1px solid black;
+  width: 100%;
+  height: 20px;
+  background-color: #00cc00;
+}
